@@ -2,8 +2,8 @@
 
 
 ## Pages:
-* [ ] Show all items
-* [ ] Individual item pages: picture, title, description, price
+* [x] Show all items
+* [~] Individual item pages: picture, title, description, price
 * [ ] Shopping cart
 	
 ## The plan:
